@@ -1,5 +1,5 @@
 body{
-        background-image:linear-gradient(rgb(52, 81, 212),rgb(73, 174, 213));
+        background-image:linear-gradient(135deg,rgb(52, 81, 212),rgb(73, 174, 213));
         margin: 0;
         padding: 0;
         display: flex;
